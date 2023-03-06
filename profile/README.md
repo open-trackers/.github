@@ -54,7 +54,7 @@ the relevant project.)
 ## Contributions
 
 The code is licensed with MPL-2.0 and where the copyright is held by
-@reedes’s OpenAlloc LLC. 
+[@reedes](https://github.com/reedes)’s OpenAlloc LLC. 
 
 Contributions can be under the developer’s name or organization, but must
 have a compatible license, preferably MPL-2.0.
