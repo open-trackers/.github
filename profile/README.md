@@ -1,14 +1,13 @@
-# Open Trackers
-
-This project presently consists of applications and their dependent
-packages:
+The _Open Trackers_ project presently consists of two applications and
+their dependent packages:
 
 * [_Gym Routine Tracker_](https://open-trackers.github.io/grt/)
   - a minimalist gym workout tracker
 * [_Daily Calorie Tracker_](https://open-trackers.github.io/dct/)
   - a minimalist calorie tracker
 
-(Both available as free downloads for the Apple Watch, iPhone, and iPad.)
+(Both available on the App Store as free downloads for the Apple Watch,
+iPhone, and iPad.)
 
 ## Features
 
@@ -22,7 +21,7 @@ packages:
   encourage long-term community development and support.
 
 * Free to download from the App Store and use, building a community of
-  users.
+  users. (No ads or subscriptions.)
 
 * A watch-first design focus, to encourage the wearable lifestyle.
 
