@@ -27,21 +27,18 @@ Among the goals of these apps for the _Open Trackers_ project:
 
 * A watch-first design focus, to encourage the wearable lifestyle.
 
-* Respect the user’s privacy, where only the user’s private iCloud account
-  is used for remote storage. No data is shared with remote servers other
-  than this.
+* Respect for the user’s privacy (see the
+  [policy](https://open-trackers.github.io/privacy/)).
 
 * Data mobility, where the user can conveniently export their data for
   review.
 
-* Leverage the Apple platform, including SwiftUI and Core Data, to
-  provide sophisticated capabilities with minimal code.
+* Leverage the Apple platform to provide sophisticated capabilities with
+  minimal code.
 
-* Share code between projects to ease maintenance, the development of new
-  tracker apps, and to provide a consistent user interface.
-
-* Leverage other open source projects (with compatible licensing) to
-  provide app capabilities. 
+* Share code between _Tracker_ projects to ease maintenance, the
+  development of new tracker apps, and to provide a consistent user
+  interface.
 
 ## Participation
 
@@ -58,8 +55,8 @@ the relevant project.)
 
 ## Contributions
 
-The code is licensed with MPL-2.0 and where the copyright is held by Reed
-Esau’s OpenAlloc LLC. 
+The code is licensed with MPL-2.0 and where the copyright is held by
+@reedes’s OpenAlloc LLC. 
 
 Contributions can be under the developer’s name or organization, but must
 have a compatible license, preferably MPL-2.0.
