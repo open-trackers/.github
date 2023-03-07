@@ -1,5 +1,6 @@
-You’ll find two applications along with their dependent packages in the
-_Open Trackers_ project:
+Welcome to the _Open Trackers_ project!
+
+You’ll find two applications along with their dependent packages here:
 
 [_Gym Routine Tracker_](https://open-trackers.github.io/grt/)
 
@@ -21,9 +22,9 @@ of principles:
 * Focus on the common needs of the basic user -- do not even try to be
   everything to everyone. 
 
-* Avoid cluttering the interface through ‘hiding’ advanced features or
-  omitting them altogether. (e.g., in GRT, long press the ‘Done’ button to
-  advance intensity.)
+* Avoid cluttering the interface either through (1) ‘hiding’ advanced
+  features or (2) omitting them altogether. (e.g., in GRT, long press the
+  ‘Done’ button to advance intensity.)
 
 * Offload ‘heavy’ features, such as long-term storage and visualization,
   to larger devices.
@@ -62,7 +63,7 @@ in the App Store. Preferably favorably! :)**
 Future tracker apps to add to the family are certainly possible, should
 good ideas emerge.
 
-To report a bug or suggest a feature, add an Issue to the relevant
+To report a bug or suggest a feature, add an Issue to the relevant Github
 project.
 
 ## Contributions
