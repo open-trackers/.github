@@ -28,7 +28,7 @@ of principles:
 
 * Offload ‘heavy’ features, such as long-term storage and visualization,
   to larger devices.
-
+  
 ## Features Ahoy!
 
 * Open-source with clear licensing terms (MPL-2.0) to encourage long-term
@@ -51,6 +51,8 @@ of principles:
 
 * Each platform version uses native conventions where feasible. (e.g., iOS
   version uses group boxes)
+  
+* Use standard SwiftUI controls, where available.
 
 * Refactor projects to share code, both to ease maintenance and facilitate
   the development of new tracker apps.
