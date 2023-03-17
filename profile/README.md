@@ -1,6 +1,6 @@
-Welcome to the _Open Trackers_ project!
+## Welcome to the _Open Trackers_ project!
 
-At present, this project features two apps:
+At present, _Open Trackers_ offers two apps:
 
 * [_Gym Routine Tracker_](https://open-trackers.github.io/grt/) - minimalist workout tracker
 
