@@ -1,24 +1,34 @@
 Welcome to the _Open Trackers_ project!
 
-You’ll find two applications along with their dependent packages here:
+At present, this project features two apps:
 
-[_Gym Routine Tracker_](https://open-trackers.github.io/grt/)
+* [_Gym Routine Tracker_](https://open-trackers.github.io/grt/) - minimalist workout tracker
 
-[_Daily Calorie Tracker_](https://open-trackers.github.io/dct/)
+* [_Daily Calorie Tracker_](https://open-trackers.github.io/dct/) - minimalist calorie tracker
 
-(Both are available on the App Store as **free** downloads for the Apple Watch, iPhone, and iPad.)
+Both are available on the App Store as **free** downloads for the Apple Watch, iPhone, and iPad.
+
+## Your Participation is Essential!
+
+**The most important thing you can do now is to rate and review the apps in the App Store. Preferably favorably! :)**
+
+(This will help to broaden the base of users, to find bugs, as well as developers to help maintain and improve the apps.)
+
+Future tracker apps to add to the family are certainly possible, should good ideas emerge.
+
+To report a bug or suggest a feature, add an Issue to the relevant Github project.
 
 ## Design Principles
 
-The apps in the _Open Trackers_ family are so opinionated they share a set of principles:
+The apps in the _Open Trackers_ family share a set of design principles:
 
 * A watch-first focus, to encourage an active lifestyle with wearable apps independent of larger devices. (Leave your phone at home!)
 
 * Convenient and quick interactions, minimizing screen time.
 
-* Focus on the common needs of the basic user -- do not even try to be everything to everyone. 
+* Focus on the common needs of the basic user -- do not try to be everything to everyone. 
 
-* Avoid cluttering the interface either through (1) ‘hiding’ advanced features or (2) omitting them altogether. (e.g., in GRT, long press the ‘Done’ button to advance intensity.)
+* Avoid cluttering the interface either through: (1) ‘hiding’ advanced features, or (2) omitting them altogether. (e.g., in GRT, long press the ‘Done’ button to advance intensity.)
 
 * Offload ‘heavy’ features, such as long-term storage and visualization, to larger devices.
   
@@ -41,15 +51,7 @@ The apps in the _Open Trackers_ family are so opinionated they share a set of pr
   
 * Use standard SwiftUI controls, where available.
 
-* Refactor projects to share code, both to ease maintenance and facilitate the development of new tracker apps.
-
-## Your Participation is Essential!
-
-**The most important thing you can do now is to rate and review the apps in the App Store. Preferably favorably! :)**
-
-Future tracker apps to add to the family are certainly possible, should good ideas emerge.
-
-To report a bug or suggest a feature, add an Issue to the relevant Github project.
+* Refactor projects to share code, both to ease maintenance and facilitate the development of new tracker apps. (Don't repeat yourself.)
 
 ## Contributions
 
