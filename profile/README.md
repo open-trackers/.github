@@ -1,4 +1,4 @@
-## Welcome to the _Open Trackers_ project!
+# Welcome to the _Open Trackers_ project!
 
 At present, _Open Trackers_ offers two apps:
 
@@ -8,7 +8,7 @@ At present, _Open Trackers_ offers two apps:
 
 Both are available on the App Store as **free** downloads for the Apple Watch, iPhone, and iPad.
 
-## Your Participation is Essential!
+## Your Participation is Essential
 
 **The most important thing you can do now is to rate and review the apps in the App Store. Preferably favorably! :)**
 
