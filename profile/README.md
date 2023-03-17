@@ -40,8 +40,7 @@ The apps in the _Open Trackers_ family share a set of design principles:
 
 * Respect for the user’s privacy (see the [policy](https://open-trackers.github.io/privacy/)). TL;DR: there is no data collection or remote tracking.
 
-* Data mobility, where the user can conveniently export their data for
-  review.
+* Data mobility, where the user can conveniently export their data for review.
 
 ## Boring Implementation Details
 
