@@ -10,9 +10,11 @@ Both are available on the App Store as **free** downloads for the Apple Watch, i
 
 ## Your Participation is Essential
 
+As an open source project, we depend on our community of users (and eventually developers) for support.
+
 **The most important thing you can do now is to rate and review the apps in the App Store. Preferably favorably! :)**
 
-(This will help to broaden the base of users, to find bugs, as well as developers to help maintain and improve the apps.)
+(This will help to broaden the base of users, to find bugs and improve the apps.)
 
 Future tracker apps to add to the family are certainly possible, should good ideas emerge.
 
