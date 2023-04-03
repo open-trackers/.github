@@ -1,12 +1,14 @@
 # Welcome to the _Open Trackers_ project!
 
-At present, _Open Trackers_ offers two apps:
+At present, _Open Trackers_ offers three apps sharing a common code base.
 
 * [_Gym Routine Tracker_](https://open-trackers.github.io/grt/) - minimalist workout tracker
 
 * [_Daily Calorie Tracker_](https://open-trackers.github.io/dct/) - minimalist calorie tracker
 
-Both are available on the App Store as **free** downloads for the Apple Watch, iPhone, and iPad.
+* [_Task Routine Tracker_](https://open-trackers.github.io/trt/) - minimal & focused task tracker
+
+These are available on the App Store as **free** downloads for the Apple Watch, iPhone, and iPad.
 
 ## Your Participation is Essential
 
