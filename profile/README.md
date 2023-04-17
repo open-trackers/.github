@@ -58,6 +58,10 @@ The apps in the _Open Trackers_ family share a set of design principles:
 
 * Data and business logic should be backed by unit tests.
 
+## XCode Setup
+
+See the [Workspace](https://github.com/open-trackers/Workspace) repository for a handy Xcode workspace that contains most of the repositories.
+
 ## Contributions
 
 The code is licensed with MPL-2.0 and where the copyright is held by [@reedes](https://github.com/reedes)’s OpenAlloc LLC. 
