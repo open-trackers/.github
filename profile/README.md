@@ -1,6 +1,6 @@
 # Welcome to the _Open Trackers Project_!
 
-The _Open Trackers Project_ is part of the [_OpenAlloc_](https://github.com/openalloc/) family of applications for the Apple Watch, iPhone, and iPad.
+The _Open Trackers Project_ is part of the [_OpenAlloc_](https://github.com/openalloc/) family of applications and re-useable libraries.
 
 ## Applications
 
