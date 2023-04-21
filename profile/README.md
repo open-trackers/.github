@@ -62,6 +62,14 @@ The apps in the _Open Trackers_ family share a set of design principles:
 
 See the [Workspace](https://github.com/open-trackers/Workspace) repository for a handy Xcode workspace that contains most of the repositories.
 
+## See also
+
+* [_OpenAlloc_](https://openalloc.github.io/) - main product website
+
+* [OpenAlloc Project](https://github.com/openalloc/) - re-useable Swift libraries
+* [Open Portfolio Project](https://github.com/open-portfolio/) - investing apps for macOS
+* [Open Trackers Project](https://github.com/open-trackers/) - fitness, nutrition, and productivity apps for iPhone, iPad, and Apple Watch
+
 ## License
 
 Copyright 2021, 2022, 2023 OpenAlloc LLC
