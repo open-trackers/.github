@@ -1,5 +1,7 @@
 # Welcome to the _Open Trackers_ project!
 
+The _Open Trackers Project_ is part of the _OpenAlloc_ family of open source Swift software applications and libraries.
+
 At present, _Open Trackers_ offers three apps sharing a common code base.
 
 * [_Gym Routine Tracker_](https://open-trackers.github.io/grt/) - minimalist workout tracker
