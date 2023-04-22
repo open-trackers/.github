@@ -68,11 +68,26 @@ See the [Workspace](https://github.com/open-trackers/Workspace) repository for a
 
 ## See also
 
-* [_OpenAlloc_](https://openalloc.github.io/) - main product website
+### OpenAlloc Libraries
 
-* [OpenAlloc Project](https://github.com/openalloc/) - re-useable Swift libraries
-* [Open Portfolio Project](https://github.com/open-portfolio/) - investing apps for macOS
-* [Open Trackers Project](https://github.com/open-trackers/) - fitness, nutrition, and productivity apps for iPhone, iPad, and Apple Watch
+Re-useable Swift libraries for multiple platforms.
+
+* [_OpenAlloc Libraries_](https://openalloc.github.io/) - _OpenAlloc Libraries_ product website
+* [_OpenAlloc Libraries_ Project](https://github.com/openalloc/) - Github site for the development project, including full source code
+
+### Open Trackers
+
+Fitness, nutrition, and productivity apps for iPhone, iPad, and Apple Watch.
+
+* [_Open Trackers_](https://open-trackers.github.io/) - _Open Trackers_ product website
+* [_Open Trackers_ Project](https://github.com/open-trackers/) - Github site for the development project, including full source code
+
+### Open Portfolio
+
+Investing apps for macOS.
+
+* [_Open Portfolio_](https://open-portfolio.github.io/) - _Open Portfolio_ product website
+* [_Open Portfolio_ Project](https://github.com/open-portfolio/) - Github site for the development project, including full source code
 
 ## License
 
